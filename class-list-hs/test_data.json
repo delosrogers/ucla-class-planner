@@ -1,0 +1,13 @@
+{
+  "requiredCourses": [
+    {
+      "name": "MATH31A",
+      "preReqs": []
+    }
+    ,{
+      "name": "MATH31B",
+      "preReqs": ["MATH31A"]
+    }
+],
+  "coursesTaken": ["MATH31A"]
+}
